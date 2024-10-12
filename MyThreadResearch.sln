@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsideProcessTask", "MyThreadResearch\InsideProcessTask.csproj", "{78307356-3955-45E0-A8FC-3DDB806D0F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78307356-3955-45E0-A8FC-3DDB806D0F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78307356-3955-45E0-A8FC-3DDB806D0F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78307356-3955-45E0-A8FC-3DDB806D0F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78307356-3955-45E0-A8FC-3DDB806D0F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AF5D639-FB2B-44EA-AC92-9AD54266C06B}
+	EndGlobalSection
+EndGlobal
